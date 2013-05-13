@@ -1,6 +1,6 @@
 define([
   'dcl',
-  'frozen/box2d/PolygonEntity',
+  'frozen/box2d/entities/Polygon',
   'frozen/plugins/loadImage!images/tavern.png'
 ], function(dcl, Polygon, img){
 

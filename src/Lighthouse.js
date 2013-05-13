@@ -1,6 +1,6 @@
 define([
   'dcl',
-  'frozen/box2d/CircleEntity',
+  'frozen/box2d/entities/Circle',
   'frozen/plugins/loadImage!images/lighthouse.png'
 ], function(dcl, Circle, img){
 
