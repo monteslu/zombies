@@ -1,6 +1,6 @@
 define([
   'dcl',
-  'frozen/box2d/CircleEntity',
+  'frozen/box2d/entities/Circle',
   'frozen/Animation',
   'frozen/utils/degreesFromCenter'
 ], function(dcl, Circle, Animation,  degreesFromCenter){
